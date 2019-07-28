@@ -13,7 +13,11 @@ After all questions are submited player will recieve score card
 Technology used:
 
 javascript
+
 jquery
+
 html
+
 css
-bootstap.
+
+bootstap
