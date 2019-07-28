@@ -1,2 +1,14 @@
 # TriviGame
-Trivia form with multiple choice or true/false options.  The player will have a limited amount of time to finish the quiz.  The game ends when the time runs out. The page will reveal the number of questions that players answer correctly and incorrectly. 
+Trivia game based on Bay Area sports teams
+
+10 second timer to answer questions
+8 questions
+If wrong answered is chosen, correct answer will appear
+After all questions are submited player will recieve score card
+Technology used:
+
+javascript
+jquery
+html
+css
+bootstap
