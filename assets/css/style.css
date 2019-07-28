@@ -1,0 +1,15 @@
+body {
+	background-image: url("../images/bateams.jpg");
+	background-size: 100%;
+	text-align: center;
+}
+
+.text-muted {
+	color: whitesmoke;
+}
+.last-seconds {
+  color: red;
+}
+.option {
+  margin: 15px;
+}
